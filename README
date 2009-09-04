@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2776
+
+A big fan of the gedit color theme 'Twilight' by Will Farrington, I made a pretty literal translation of it for vim here ( I did borrow Yoshi Nima's excellent status bar coloring from his theme also named 'twilight'). The only changes from Farrington's scheme is that I did away with the 'dark maroon' guibg and added Pmenu colors.
+
+Screenshots here => "http://robrobbins.info/?page_id=2&quot;
