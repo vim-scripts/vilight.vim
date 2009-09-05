@@ -30,6 +30,7 @@ hi WildMenu       guifg=#9b70f3           guibg=#0e2231
 hi MatchParen	  guifg=#f8f8f8		      guibg=#4f94cd
 hi ErrorMsg		  guifg=#cf6a4c           guibg=NONE
 hi WarningMsg	  guifg=#cf6a4c			  guibg=NONE
+hi Title          guifg=#cf6a4c           guibg=#141414
 
 "Syntax hilight groups
 
@@ -51,7 +52,7 @@ hi SpecialChar    guifg=#7587a6
 hi SpecialComment guifg=#4f94cd
 hi Ignore         guifg=#888888
 hi Error          guifg=#cf6a4c          guibg=NONE
-hi Todo           guifg=#f9ee98
+hi Todo           guifg=#141414          guibg=#f9ee98
 hi Pmenu          guifg=#8693a5          guibg=#0e2231
 hi PmenuSel       guifg=#cda869          guibg=#0e2231
 hi PmenuSbar      guibg=#665f57
